@@ -1,0 +1,14 @@
+.fbutton,
+.sbutton {
+	font-size: 28px;
+	font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.fbutton {
+	color: #FFFFFF;
+	background-color: #000000;
+}
+
+.sbutton {
+	background-color: #ede900;
+}
